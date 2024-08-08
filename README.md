@@ -1,4 +1,4 @@
-# udemy_led_gpio
+# udemy_buzzer_gpio
 
 A new Flutter project.
 
